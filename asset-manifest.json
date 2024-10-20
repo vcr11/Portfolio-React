@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/Portfolio-React/static/css/main.0774b7fa.css",
-    "main.js": "/Portfolio-React/static/js/main.13f81db3.js",
-    "static/media/wheather.png": "/Portfolio-React/static/media/wheather.8a8607a22a5d461a968b.png",
-    "static/media/expense-tracker-app.png": "/Portfolio-React/static/media/expense-tracker-app.592ba7f176477630015f.png",
-    "static/media/todo.png": "/Portfolio-React/static/media/todo.69e39942b3b94698602e.png",
-    "static/media/Algorthims.png": "/Portfolio-React/static/media/Algorthims.095fd49371f148e20f51.png",
-    "static/media/hms.png": "/Portfolio-React/static/media/hms.41083f10d892866c68de.png",
-    "static/media/hero-image.png": "/Portfolio-React/static/media/hero-image.b4940c7558f6d26af287.png",
-    "static/media/url.png": "/Portfolio-React/static/media/url.46743299fa3c2e4db462.png",
-    "static/media/Resume_Chandra Shekar Reddy.pdf": "/Portfolio-React/static/media/Resume_Chandra Shekar Reddy.486376bccabad67c2569.pdf",
-    "static/media/vtr.png": "/Portfolio-React/static/media/vtr.7e407f6da2489277e2e3.png",
-    "static/media/oop.png": "/Portfolio-React/static/media/oop.99bed27436bdeeb14c66.png",
-    "static/media/sd.png": "/Portfolio-React/static/media/sd.4dfe9abd8821c3efed87.png",
-    "static/media/camp.png": "/Portfolio-React/static/media/camp.c9a4cc789582cb05ae91.png",
-    "static/media/netflix.png": "/Portfolio-React/static/media/netflix.0e5c9877e71a1eb7a42b.png",
-    "static/media/Ucf.png": "/Portfolio-React/static/media/Ucf.318088cbffa41544350b.png",
-    "static/media/hacker.png": "/Portfolio-React/static/media/hacker.e0b25d6e828d776241ff.png",
-    "index.html": "/Portfolio-React/index.html",
-    "main.0774b7fa.css.map": "/Portfolio-React/static/css/main.0774b7fa.css.map",
-    "main.13f81db3.js.map": "/Portfolio-React/static/js/main.13f81db3.js.map"
+    "main.css": "/portfolio_vcr11/static/css/main.0774b7fa.css",
+    "main.js": "/portfolio_vcr11/static/js/main.20c9fbcf.js",
+    "static/media/wheather.png": "/portfolio_vcr11/static/media/wheather.8a8607a22a5d461a968b.png",
+    "static/media/expense-tracker-app.png": "/portfolio_vcr11/static/media/expense-tracker-app.592ba7f176477630015f.png",
+    "static/media/todo.png": "/portfolio_vcr11/static/media/todo.69e39942b3b94698602e.png",
+    "static/media/Algorthims.png": "/portfolio_vcr11/static/media/Algorthims.095fd49371f148e20f51.png",
+    "static/media/hms.png": "/portfolio_vcr11/static/media/hms.41083f10d892866c68de.png",
+    "static/media/hero-image.png": "/portfolio_vcr11/static/media/hero-image.b4940c7558f6d26af287.png",
+    "static/media/url.png": "/portfolio_vcr11/static/media/url.46743299fa3c2e4db462.png",
+    "static/media/Resume_Chandra Shekar Reddy.pdf": "/portfolio_vcr11/static/media/Resume_Chandra Shekar Reddy.486376bccabad67c2569.pdf",
+    "static/media/vtr.png": "/portfolio_vcr11/static/media/vtr.7e407f6da2489277e2e3.png",
+    "static/media/oop.png": "/portfolio_vcr11/static/media/oop.99bed27436bdeeb14c66.png",
+    "static/media/sd.png": "/portfolio_vcr11/static/media/sd.4dfe9abd8821c3efed87.png",
+    "static/media/camp.png": "/portfolio_vcr11/static/media/camp.c9a4cc789582cb05ae91.png",
+    "static/media/netflix.png": "/portfolio_vcr11/static/media/netflix.0e5c9877e71a1eb7a42b.png",
+    "static/media/Ucf.png": "/portfolio_vcr11/static/media/Ucf.318088cbffa41544350b.png",
+    "static/media/hacker.png": "/portfolio_vcr11/static/media/hacker.e0b25d6e828d776241ff.png",
+    "index.html": "/portfolio_vcr11/index.html",
+    "main.0774b7fa.css.map": "/portfolio_vcr11/static/css/main.0774b7fa.css.map",
+    "main.20c9fbcf.js.map": "/portfolio_vcr11/static/js/main.20c9fbcf.js.map"
   },
   "entrypoints": [
     "static/css/main.0774b7fa.css",
-    "static/js/main.13f81db3.js"
+    "static/js/main.20c9fbcf.js"
   ]
 }
